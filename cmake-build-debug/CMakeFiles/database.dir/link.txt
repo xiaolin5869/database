@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/database.dir/main.cpp.o  -o database.exe -Wl,--out-implib,libdatabase.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
